@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=IHC
+Comment=IHC P2P Cryptocurrency
+Comment[fr]=IHC, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=IHC, eşten eşe kriptografik sanal para birimi
+Exec=ihc-qt %u
+Terminal=false
+Type=Application
+Icon=ihc128
+MimeType=x-scheme-handler/ihc;
+Categories=Office;Finance;
